@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BHARANI DHARAUN A</h1>
-<h3 align="center">Not Just Another Developer</h3>
+<h3 align="center">Not Just Another Developer!</h3>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D5603AQEXloP-BC56Ow/profile-displayphoto-shrink_800_800/0/1707145412417?e=1724889600&v=beta&t=vHgSWIDUNfCfX3VfhZygULxVDhsAU_dye1YefR1qaRg" alt="BHARANI DHARAUN A" width="200"/>

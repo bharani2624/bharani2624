@@ -42,8 +42,8 @@
 
 <h3 align="left">🌟 GitHub Stats:</h3>
 
-![Bharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Bharani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharani2624&show_icons=true&theme=radical)
 
 <h3 align="left">📈 GitHub Streak:</h3>
 
-![Bharani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical)
+![Bharani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bharani2624_HERE&theme=radical)

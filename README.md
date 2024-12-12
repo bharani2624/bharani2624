@@ -1,7 +1,5 @@
 # About Me:
-I am currently working on<br>
-Hostel Room Booking System(Mobile App(Java))
-
+I am currently Learning Something New<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/BHARANIDHARAUN A](https://www.linkedin.com/in/bharanidharaun-a-443b4a256/)) 
